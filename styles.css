@@ -303,5 +303,8 @@ footer {
   .header-fixed .nav-menu .item-menu {
     font-size: 0.8rem;
   }
+  .mid-container {
+    width: 95%;
+  }
 }
 /*# sourceMappingURL=styles.css.map */
